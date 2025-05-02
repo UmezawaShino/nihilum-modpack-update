@@ -1,0 +1,4 @@
+== Nihilum v0.0.2 ==
+- Added Modpack Update Checker support
+- Adjusted custom weapon stats
+- Improved start zone lighting and fog
