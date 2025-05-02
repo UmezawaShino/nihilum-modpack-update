@@ -3,11 +3,14 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "version": "0.0.2",
-      "releaseType": "stable",
-      "updateTimestamp": "2025-05-02T12:00:00Z",
-      "downloadURL": "https://discord.gg/z7ySJQmQeG", 
-      "changeLog": "Added Update Checker, fixed minor UI bugs."
+      "id": "0.0.2",
+      "releasedAt": 1714656000000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/nihilum-client/files"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
