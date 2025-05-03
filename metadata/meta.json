@@ -3,11 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "0.0.2",
+      "id": "0.0.1",
       "releasedAt": 1714656000000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/nihilum-client/files"
+          "generic": "https://discord.gg/z7ySJQmQeG"
         }
       },
       "updateType": "minor"
