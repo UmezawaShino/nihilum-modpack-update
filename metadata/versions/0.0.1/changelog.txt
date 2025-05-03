@@ -1,0 +1,3 @@
+== Nihilum v0.0.1 ==
+  - Created the Modpack
+  - Distributed the Modpack
