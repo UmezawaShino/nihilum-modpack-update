@@ -1,4 +1,43 @@
 == Nihilum v0.0.2 ==
 - Added Modpack Update Checker support
-- Adjusted custom weapon stats
-- Improved start zone lighting and fog
+- Added New Weapons:
+  - Uncommon Dagger: Pale Glimmer
+  - Uncommon Scythe: Ashbrand Reaper
+  - Uncommon Sword: Violetglass Relicblade
+  - Rare Whip: Whispercord
+  - Rare Whip: Thornweavers Chant
+  - Rare Greatsword: Bloodborne Judicator
+  - Rare Axe: Verdant Executioner
+  - Rare Dagger: Dancer's Bloom
+  - Rare Scythe Scythe of Pale Judgment
+  - Epic Whip: Radiant Lash
+  - Epic Whip: Venomroot Coil
+  - Epic Greatsword: Glacial Fang
+  - Epic Greatsword: Infernal Spineblade
+  - Epic Dagger: Dawnpiercer
+  - Epic Spear: Prismarine Glaive
+  - Epic Scythe: Thornveil Reaper
+  - Epic Scythe: Scythe of Broken Bones
+  - Epic Sword: Spinecleaver
+  - Epic Sword: Fang of the Golden Coil
+  - Epic Sword: Bloomfang
+  - Legendary Whip: Bloodlash
+  - Legendary Greatsword: Crimson Writblade
+  - Legendary Greatsword: Soulcage Reaver
+  - Legendary Greatsword: Crescent Maw
+  - Legendary Axe: Maw of the Dread Current
+  - Legendary Axe: Mindhook of Lysothis
+  - Legendary Axe: Phantom Crescent
+  - Legendary Spear: Ghastly Glaive
+  - Legendary Spear: Sprial Vow
+  - Legendary Spear: Spear of the Dissonant Echoes
+  - Legendary Scythe: Cryoscourge
+  - Legendary Scythe: Staff of the Dissonant Eye
+  - Legendary Scythe: Phantom Reapedge
+  - Legendary Scythe: Thorn of the Soultree
+  - Legendary Scythe: Scythe of Hollow Victory
+  - Legendary Sword: Phantom Cleaver
+  - Legendary Sword: Whisperblade of Soultree
+- Updated the Main Menu and the Pause Menu screen.
+- Added a new Daily Dungeon. There are currently 3 different Daily Dungeons available.
+- Completed the first Fragment, Ruins of Varethis.
