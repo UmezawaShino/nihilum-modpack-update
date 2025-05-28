@@ -21,6 +21,16 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "0.0.3",
+      "releasedAt": 0,
+      "promotions": {
+        "downloads": {
+          "generic": "https://discord.gg/z7ySJQmQeG"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
