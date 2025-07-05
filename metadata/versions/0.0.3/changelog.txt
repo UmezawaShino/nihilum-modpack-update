@@ -1,2 +1,2 @@
-== Nihilum v0.0.2 ==
+== Nihilum v0.0.3 ==
 - Released Modpack to the public.
