@@ -1,1 +1,2 @@
-The patch of the Future.
+== Nihilum v0.0.2 ==
+- Released Modpack to the public.
