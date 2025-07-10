@@ -31,6 +31,16 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "0.0.4",
+      "releasedAt": 1752111666829,
+      "promotions": {
+        "downloads": {
+          "generic": "https://discord.gg/z7ySJQmQeG"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
